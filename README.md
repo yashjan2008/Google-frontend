@@ -22,7 +22,7 @@ This project replicates the minimalist look of the Google homepage, including th
 
 ---
 ## files included
-- **practice.html
-- **prac.css
-- ggl image (google logo)
+- **practice.html**
+- **prac.css**
+- **ggl image** -(google logo)
 
